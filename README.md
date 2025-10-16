@@ -19,7 +19,7 @@ Um curso gratuito focado em introduzir as principais tecnologias da Web moderna.
 <br>
 
 <p align="center">
-  <img alt="Prévia do projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img width="1365" height="608" alt="image" src="https://github.com/user-attachments/assets/6ca9be98-c61d-4071-a9cf-df4db34d93f0" />
 </p>
 
 ## 🚀 Tecnologias
