@@ -52,4 +52,4 @@ Sinta-se à vontade para utilizá-lo e personalizá-lo.
 
 ---
 
-Feito com 💙 por **Daniel Oliveira** durante o programa **Discover** da [Rocketseat](https://www.rocketseat.com.br/).
+Feito com 💙 por **daeldev** durante o programa **Discover** da [Rocketseat](https://www.rocketseat.com.br/).
